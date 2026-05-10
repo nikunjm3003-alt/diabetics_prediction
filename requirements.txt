@@ -6,3 +6,4 @@ streamlit
 joblib
 sqlalchemy
 psycopg2-binary
+xgboost
