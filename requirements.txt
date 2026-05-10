@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
+imblearn
 streamlit
 joblib
 sqlalchemy
